@@ -1,9 +1,11 @@
 # Evaluaci-n_final
 
 El impacto de las Nuevas Tecnologías en la Sociedad: Desarrollo y Proyección de Soluciones Informáticas
-Nombre
+
+Nombre:
 Neimar Brito
-Objetivo del sistema 
+
+Objetivo del sistema: 
 El objetivo es crear un juego de "Piedra, Papel o Tijeras" en la computadora donde una persona pueda jugar contra la máquina todas las veces que quiera. El programa debe ser inteligente: debe llevar el marcador de los puntos de cada uno, saber quién gana en cada ronda sin equivocarse y, si el jugador presiona un botón por error, el juego no debe trabarse ni cerrarse solo.
 
 Explicación del Sistema y Descripción de Funcionalidades 
@@ -13,7 +15,8 @@ Explicación del Sistema y Descripción de Funcionalidades
 4.	Marcador acumulativo: El programa lleva la cuenta de los puntos. Al terminar cada ronda, te muestra en pantalla el marcador actualizado con tus victorias y las de la computadora.
 5.	Protección contra errores: Si el usuario ingresa una opción que no existe (como una letra o el número 5), el sistema detecta el error, muestra un mensaje de advertencia y reinicia la ronda limpiamente sin trabarse ni cerrarse.
 6.	Modo de juego infinito: El juego no se apaga al terminar una ronda. Te pregunta explícitamente si deseas continuar jugando o si prefieres salir escribiendo palabras clave como "no" o "salir".
-Fecha 
+
+Fecha: 
 28/06/2026
 
 Introducción
